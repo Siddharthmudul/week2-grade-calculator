@@ -1,0 +1,11 @@
+=== STUDENT 1 ===
+Name: John Smith
+Math: 85
+Science: 92
+English: 88
+
+=== STUDENT 2 ===
+Name: Sarah Johnson
+Math: 78
+Science: 81
+English: 85
